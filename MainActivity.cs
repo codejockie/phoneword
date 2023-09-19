@@ -8,7 +8,7 @@ using System.Collections.Generic;
 
 namespace Phoneword
 {
-    [Activity(Label = "@string/app_name", Theme = "@style/AppTheme", MainLauncher = true)]
+    [Activity(Label = "@string/app_name", Theme = "@style/AppTheme", MainLauncher = false)]
     public class MainActivity : AppCompatActivity
     {
         static readonly List<string> phoneNumbers = new List<string>();
