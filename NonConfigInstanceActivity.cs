@@ -11,7 +11,7 @@ using System.Text.Json.Nodes;
 
 namespace Phoneword
 {
-    [Activity(Label = "NonConfigInstanceActivity", Theme = "@style/AppTheme", MainLauncher = true)]
+    [Activity(Label = "NonConfigInstanceActivity", Theme = "@style/AppTheme")]
     [Obsolete]
     public class NonConfigInstanceActivity : ListActivity
     {
