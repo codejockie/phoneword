@@ -12,7 +12,7 @@ using System.Text;
 
 namespace Phoneword
 {
-    [Activity(Label = "BoundServiceActivity", MainLauncher = true)]
+    [Activity(Label = "BoundServiceActivity")]
     public class BoundServiceActivity : Activity
     {
         Button timestampButton;

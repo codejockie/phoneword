@@ -11,4 +11,14 @@
 	<string name="service_started">The service is started.</string>
 
 	<string name="app_description">This app is a demonstration of a Bound Service in Xamarin.Android. This example will bind to a Service, which will return a timestamp telling how long the Service has been running. </string>
+
+	<string name="fs_stop_timestamp_service_button_text">Stop Service</string>
+	<string name="fs_restart_timestamp_service_button_text"> Start Service</string>
+	<string name="fs_service_started">The service is started.</string>
+	<string name="fs_app_description">This app is a demonstration of running a Xamarin.Android service in the foreground.</string>
+	<string name="notification_text">The started service is running.</string>
+	<string name="restart_timer">Restart Timer</string>
+	<string name="stop_service">Stop Service</string>
+	<string name="channel_name">PW</string>
+	<string name="channel_description">App Foreground Service Channel</string>
 </resources>
